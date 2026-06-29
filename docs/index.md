@@ -21,3 +21,7 @@ Flash an ESP8266/ESP32 in three steps. No button presses required.
   hold **BOOT**, tap **RST**, release **BOOT**.
 
 Trouble? See the **[FAQ](faq.md)**.
+
+## 💬 Feedback & suggestions
+Ideas, questions, or something you'd like to see? Open a discussion — we read every one:
+**https://github.com/hardcodebr/usb-esp-programmer/discussions**

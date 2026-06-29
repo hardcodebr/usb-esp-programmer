@@ -31,3 +31,6 @@ HC22002 board (feet + pull-up header & jumper cap fitted) · USB-C cable ·
 ---
 Made by [HardCode](https://hardcode.com.br) · support@hardcode.com.br
 *Hardware design files are not published.*
+
+## 💬 Feedback
+Suggestions or questions → [open a discussion](https://github.com/hardcodebr/usb-esp-programmer/discussions) · support@hardcode.com.br
