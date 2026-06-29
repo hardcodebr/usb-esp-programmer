@@ -16,7 +16,7 @@
 | **Flow control** | None (RTS/CTS not used for data) |
 | **Max validated baud** | TBD |
 | **Power to target** | Optional VCC (3.3 V); max current TBD |
-| **Dimensions** | TBD |
+| **Dimensions** | 45 × 43 mm |
 | **Mounting** | 4× stick-on rubber feet |
 | **Toolchain** | esptool, Arduino IDE, ESP-IDF |
 | **Supported targets** | ESP8266, ESP32, ESP32-S2/S3, ESP32-C3 |
