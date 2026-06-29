@@ -1,5 +1,7 @@
 # Quick-Start — USB-C ESP Programmer (HC22002)
 
+> 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
+
 Flash an ESP8266/ESP32 in three steps. No button presses required.
 
 ## 1. Connect

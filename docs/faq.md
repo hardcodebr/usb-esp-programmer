@@ -1,5 +1,7 @@
 # FAQ / Troubleshooting — HC22002
 
+> 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
+
 **The port doesn't appear / can't connect.**
 Install the USB-to-serial driver for your OS, try another USB-C cable, and confirm the
 programmer enumerates as a serial port.
