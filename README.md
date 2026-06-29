@@ -1,5 +1,7 @@
 # USB-C ESP Programmer (HC22002)
 
+![product](docs/img/hero.jpg)
+
 A compact **USB-C-to-UART programmer** for the **ESP8266 / ESP32** series with
 **automatic reset & boot** — flash with `esptool`, the Arduino IDE, or ESP-IDF
 with no button presses ("no boot-button dance"). USB bus-powered.
@@ -18,6 +20,7 @@ with no button presses ("no boot-button dance"). USB bus-powered.
 
 ## Documentation
 - [Quick-Start (flash guide)](docs/index.md)
+- [Datasheet](docs/datasheet.md)
 - [Pinout](docs/pinout.md)
 - [FAQ / Troubleshooting](docs/faq.md)
 
