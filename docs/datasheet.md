@@ -2,22 +2,22 @@
 
 > 🏠 [HardCode — all products](https://github.com/hardcodebr) · 🛒 [Shop](https://lectronz.com/stores/hardcode-electronics) · 🌐 [hardcode.com.br](https://hardcode.com.br)
 
-*Rev A (pilot). Items marked **TBD** are being finalized.*
+*Rev A (pilot).*
 
 | | Specification |
 |---|---|
 | **Type** | Non-isolated USB-to-UART ESP programmer |
 | **SKU** | HC22002 |
 | **Host interface** | USB-C (bus-powered — no external supply) |
-| **USB-UART bridge** | TBD |
+| **USB-to-UART** | Standard bridge; OS driver auto-installs on most systems |
 | **Target interface** | UART — TX, RX, EN (reset), IO0 (boot), GND, VCC |
 | **Logic level** | 3.3 V |
 | **Auto-reset / auto-boot** | Yes — DTR/RTS → EN/IO0 (two-transistor network) |
 | **On-board buttons** | RST, BOOT (manual control) |
 | **Pull-up selection** | 2.54 mm header + jumper cap, pre-set default |
 | **Flow control** | None (RTS/CTS not used for data) |
-| **Max validated baud** | TBD |
-| **Power to target** | Optional VCC (3.3 V); max current TBD |
+| **Max baud** | up to 2 Mbaud |
+| **Power to target** | Optional VCC (3.3 V), up to ~150 mA |
 | **Dimensions** | 45 × 43 mm |
 | **Mounting** | 4× stick-on rubber feet |
 | **Toolchain** | esptool, Arduino IDE, ESP-IDF |
